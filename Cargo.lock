@@ -1,0 +1,4 @@
+[root]
+name = "brainfuck-rs"
+version = "0.1.0"
+
